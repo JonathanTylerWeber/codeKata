@@ -6,3 +6,4 @@ public class Add {
 
 // to run tests:
 //  ./gradlew :app:test
+// add --info to see failing test
